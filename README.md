@@ -70,7 +70,7 @@ The Random Forest Classifier outperformed other algorithms in terms of accuracy 
 To run this notebook locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nisarg143/Heart-Disease-Prediction-ML.git
+   git clone https://github.com/imlokesha/Heart-Disease-Prediction.git
 2. Install depenecies:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn pydrive
